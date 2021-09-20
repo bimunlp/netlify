@@ -1,0 +1,23 @@
+{{- $ThemeVersion := "3.2.0" -}}
+<footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        {{ if and (.Site.Params.footer.since) (ne .Site.Params.footer.since (int (now.Format "2006"))) }}
+            {{ .Site.Params.footer.since }} - 
+        {{ end }}
+        {{ now.Format "2006" }} {{ .Site.Title }}
+    </section>
+    
+    <section class="powerby">
+        {{ with .Site.Params.footer.customText }}
+            {{ . | safeHTML }} <br/>
+        {{ end }}
+
+        {{- $Generator := `<a href="https://www.youtube.com/channel/UCR1NM_3OE0LM9vbqEZ6Ft0g" target="_blank" rel="noopener">Heart</a>` -}}
+        {{- $Theme := printf `<b><a href="https://space.bilibili.com/275230151" target="_blank" rel="noopener" data-version="%s">is</a></b>` $ThemeVersion -}}
+        {{- $DesignedBy := `<a href="https://twitter.com/HanmengLiu" target="_blank" rel="noopener">Love</a>` -}}
+
+        {{ T "footer.builtWith" (dict "Generator" $Generator) | safeHTML }} <br />
+        {{ T "footer.designedBy" (dict "Theme" $Theme "DesignedBy" $DesignedBy) | safeHTML }}
+    </section>
+</footer>

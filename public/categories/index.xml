@@ -8,7 +8,7 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bimu.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blogs</title>
+      <title>Test</title>
       <link>https://bimu.netlify.app/categories/test/</link>
       <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
       
@@ -49,6 +49,24 @@
       <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://bimu.netlify.app/categories/test-with-whitespaces/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blogs</title>
+      <link>https://bimu.netlify.app/categories/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bimu.netlify.app/categories/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Videos</title>
+      <link>https://bimu.netlify.app/categories/video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bimu.netlify.app/categories/video/</guid>
       <description></description>
     </item>
     

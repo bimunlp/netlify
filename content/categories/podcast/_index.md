@@ -1,9 +1,9 @@
 ---
-title: "Videos"
-description: "Video blogs"
-slug: "video"
+title: "Podcasts"
+description: "waveform"
+slug: "audio"
 image: "https://qiniu.csit.fun/video.jpg"
 style:
     background: "#2a9d8f"
-    color: "#C0C0C0"
+    color: "#fff"
 ---

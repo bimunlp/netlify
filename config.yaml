@@ -27,7 +27,7 @@ params:
 
     footer:
         since: 2021
-        customText:
+        customText: 豫ICP备20000969号-1
 
     dateFormat:
         published: Jan 02, 2006

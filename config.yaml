@@ -2,7 +2,7 @@ baseurl: https://bimu.netlify.app
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: bimu.cc
+title: 编程范
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack

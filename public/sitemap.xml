@@ -5,6 +5,9 @@
     <loc>https://bimu.netlify.app/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://bimu.netlify.app/categories/blog/</loc>
+    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://bimu.netlify.app/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -12,12 +15,6 @@
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bimu.netlify.app/post/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bimu.netlify.app/categories/test/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bimu.netlify.app/categories/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bimu.netlify.app/archives/</loc>
@@ -38,25 +35,16 @@
     <loc>https://bimu.netlify.app/p/markdown-syntax-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bimu.netlify.app/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://bimu.netlify.app/tags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bimu.netlify.app/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://bimu.netlify.app/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://bimu.netlify.app/p/placeholder-text/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bimu.netlify.app/tags/tag-with-whitespaces/</loc>
-    <lastmod>2019-03-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bimu.netlify.app/categories/test-with-whitespaces/</loc>
     <lastmod>2019-03-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bimu.netlify.app/tags/text/</loc>
@@ -70,8 +58,6 @@
   </url><url>
     <loc>https://bimu.netlify.app/p/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bimu.netlify.app/categories/blog/</loc>
   </url><url>
     <loc>https://bimu.netlify.app/search/</loc>
   </url><url>

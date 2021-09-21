@@ -1,62 +1,41 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on bimu.cc</title>
+    <title>Posts on 编程范</title>
     <link>https://bimu.netlify.app/post/</link>
-    <description>Recent content in Posts on bimu.cc</description>
+    <description>Recent content in Posts on 编程范</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 09 Sep 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://bimu.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Sep 2021 20:39:46 +0800</lastBuildDate><atom:link href="https://bimu.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Chinese Test</title>
-      <link>https://bimu.netlify.app/p/test-chinese/</link>
-      <pubDate>Wed, 09 Sep 2020 00:00:00 +0000</pubDate>
+      <title>如何在Github上免费开通一个Github Page作为个人主页</title>
+      <link>https://bimu.netlify.app/p/%E5%A6%82%E4%BD%95%E5%9C%A8github%E4%B8%8A%E5%85%8D%E8%B4%B9%E5%BC%80%E9%80%9A%E4%B8%80%E4%B8%AAgithub-page%E4%BD%9C%E4%B8%BA%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5/</link>
+      <pubDate>Mon, 20 Sep 2021 20:39:46 +0800</pubDate>
       
-      <guid>https://bimu.netlify.app/p/test-chinese/</guid>
-      <description>正文测试 而这些并不是完全重要，更加重要的问题是， 带着这些问题，我们来审视一下学生会退会。 既然如何， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 我们不得不面对一个非常尴尬的事实，那就是， 可是，即使是这样，学生会退会的出现仍然代表了一定的意义。 学生会退会，发生了会如何，不发生又会如何。 经过上述讨论， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 学生会退会，到底应该如何实现。 这样看来， 在这种困难的抉择下，本人思来想去，寝食难安。 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 就我个人来说，学生会退会对我的意义，不能不说非常重大。 莎士比亚曾经提到过，人的一生是短的，但如果卑劣地过这一生，就太长了。这似乎解答了我的疑惑。 莫扎特说过一句富有哲理的话，谁和我一样用功，谁就会和我一样成功。这启发了我， 对我个人而言，学生会退会不仅仅是一个重大的事件，还可能会改变我的人生。 学生会退会，到底应该如何实现。 一般来说， 从这个角度来看， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 在这种困难的抉择下，本人思来想去，寝食难安。 了解清楚学生会退会到底是一种怎么样的存在，是解决一切问题的关键。 一般来说， 生活中，若学生会退会出现了，我们就不得不考虑它出现了的事实。 问题的关键究竟为何？ 而这些并不是完全重要，更加重要的问题是。
-奥斯特洛夫斯基曾经说过，共同的事业，共同的斗争，可以使人们产生忍受一切的力量。　带着这句话，我们还要更加慎重的审视这个问题： 一般来讲，我们都必须务必慎重的考虑考虑。 既然如此， 这种事实对本人来说意义重大，相信对这个世界也是有一定意义的。 带着这些问题，我们来审视一下学生会退会。 我认为， 我认为， 在这种困难的抉择下，本人思来想去，寝食难安。 问题的关键究竟为何？ 每个人都不得不面对这些问题。 在面对这种问题时， 要想清楚，学生会退会，到底是一种怎么样的存在。 我认为， 既然如此， 每个人都不得不面对这些问题。 在面对这种问题时， 那么， 我认为， 学生会退会因何而发生。
-引用  思念是最暖的忧伤像一双翅膀
-让我停不了飞不远在过往游荡
-不告而别的你 就算为了我着想
-这么沉痛的呵护 我怎么能翱翔
-最暖的憂傷 - 田馥甄
- 图片  Photo by Florian Klauer on Unsplash   Photo by Luca Bravo on Unsplash</description>
-    </item>
-    
-    <item>
-      <title>Markdown Syntax Guide</title>
-      <link>https://bimu.netlify.app/p/markdown-syntax-guide/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://bimu.netlify.app/p/markdown-syntax-guide/</guid>
-      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Placeholder Text</title>
-      <link>https://bimu.netlify.app/p/placeholder-text/</link>
-      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://bimu.netlify.app/p/placeholder-text/</guid>
-      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Math Typesetting</title>
-      <link>https://bimu.netlify.app/p/math-typesetting/</link>
-      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://bimu.netlify.app/p/math-typesetting/</guid>
-      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Emoji Support</title>
-      <link>https://bimu.netlify.app/p/emoji-support/</link>
-      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://bimu.netlify.app/p/emoji-support/</guid>
-      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+      <guid>https://bimu.netlify.app/p/%E5%A6%82%E4%BD%95%E5%9C%A8github%E4%B8%8A%E5%85%8D%E8%B4%B9%E5%BC%80%E9%80%9A%E4%B8%80%E4%B8%AAgithub-page%E4%BD%9C%E4%B8%BA%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5/</guid>
+      <description>为什么要选择在Github上建站，原因很简单，它是免费的．
+只要你按照下面的六步走，就可以轻轻松松发布自己的网站，你不需要有任何关于编程或者网站建设的基础知识．所有的前提只是，你要有一个github账号．
+当你下定决心要建站的时候，你就开始面临一系列的选择．我在上个文章中就已经提到了大家会面临的第一个分叉路口．对于一个想要搭建个人博客系统的新手，我坚定地建议你采用Github托管的方式，原因很简单，它是免费的．
+你可以在Github上免费开通Github Page，为你个人或者你的项目建立一个网站．Github Page官方网站上有详细的介绍和操作流程．让我们开始操作吧．
+ 第一步．创建存储库 (repository)
+ 转到GitHub并创建一个名为username .github.io 的新存储库，其中username是你在GitHub上的用户名（或组织名称）。
+如果存储库的第一部分与您的用户名不完全匹配，则无法正常工作，因此请务必正确使用。
+需要注意的是
+ 在实际操作中你会发现，如果你有自己的独立域名，对新储存库的命名不需要遵循这么严格的规则．以我自己为例，我的Github用户名是yiyouls,　我给自己用来建立Github Page的新仓库命名为blog.　同样是可行的． 仓库属性也可以选择Public   第二步，进入储存库，转到设置(settings)
+ 在设置页面你可以对你的新储存库进行相关设置，你可以在这里设置你的GIthub Page特性，包括功能的开启与关闭，是否绑定定制域名(custom domain).
+ 第三步，下载使用Github桌面客户端(Github Desktop)
+ GitHub Desktop是在macOS和Windows上使用Git和GitHub的好方法。（如果你不想使用Github客户端，你也可以直接在终端里通过git命令进行操作1，我会把terminal的操作方法一并列出）
+下载GitHub桌面
+ 第四步，将储存库克隆到本地，用Github桌面客户端打开
+ 客户端完成安装后，返回我们刚建的储存库主页并刷新页面。单击“Set up in Desktop”按钮。当GitHub桌面应用程序打开时，保存项目。这样我们就把该储存库克隆到了本地．
+注意
+  如果Github桌面客户端未能打开，你可以从电脑应用程序库找到它并启动，用户登录后，你可以看到你名下的所有储存库，找到我们新建的那个，手动克隆它．
+  如果你使用terminal操作，你首先需要cd到你准备存放你的项目的文件夹（一定要记得你存放的路径），通过下面的操作克隆你的刚建的储存库：
+git clone https://github.com/username/username.github.io    第五步，创建索引文件
+ 到这里，你的储存库尚未添加任何文件，你的网站也相应地空空如也．你需要添加索引文件
+这样，你就在你的网站上添加了一行&amp;quot;hello world&amp;quot;
+如果是使用terminal操作，你需要cd进入克隆出的文件，然后向文件夹里添加内容：
+cd username.github.io echo &amp;quot;Hello World&amp;quot; &amp;gt; index.html  第六步，提交和发布</description>
     </item>
     
   </channel>

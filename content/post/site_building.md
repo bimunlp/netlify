@@ -2,6 +2,13 @@
 title: "如何在Github上免费开通一个Github Page作为个人主页"
 date: 2021-09-20T20:39:46+08:00
 image: "https://qiniu.csit.fun/free_website.png"
+tags:
+   - Github
+   - 建站
+categories:
+   - blog
+series:
+   - 建站
 ---
 
 为什么要选择在Github上建站，原因很简单，它是免费的．
@@ -11,11 +18,6 @@ image: "https://qiniu.csit.fun/free_website.png"
 
 当你下定决心要建站的时候，你就开始面临一系列的选择．我在上个文章中就已经提到了大家会面临的第一个分叉路口．对于一个想要搭建**个人博客**系统的新手，我坚定地建议你采用Github托管的方式，原因很简单，它是免费的．
 
-假定大家都知道Github是个什么东西，并且对它有着一种类似信仰的原始崇拜．
-
-![](http://cdn.yiyouls.com/codeape.gif)
-
-
 
 你可以在Github上免费开通[Github Page](https://pages.github.com)，为你个人或者你的项目建立一个网站．[Github Page](https://pages.github.com)官方网站上有详细的介绍和操作流程．让我们开始操作吧．
 
@@ -23,15 +25,15 @@ image: "https://qiniu.csit.fun/free_website.png"
 
 转到[GitHub](https://github.com/)并[创建一个](https://github.com/new)名为*username* .github.io [的新存储库](https://github.com/new)，其中*username*是你在GitHub上的用户名（或组织名称）。
 
-![](http://cdn.yiyouls.com/step1.png)
+
 
 如果存储库的第一部分与您的用户名不完全匹配，则无法正常工作，因此请务必正确使用。
 
-{% hl_text danger %}
+
 
 *需要注意的是*
 
-{% endhl_text %}
+
 
 1. 在实际操作中你会发现，如果你有自己的独立域名，对新储存库的命名不需要遵循这么严格的规则．以我自己为例，我的Github用户名是yiyouls,　我给自己用来建立Github Page的新仓库命名为blog.　同样是可行的．
 2. 仓库属性也可以选择Public
@@ -42,7 +44,7 @@ image: "https://qiniu.csit.fun/free_website.png"
 
 在设置页面你可以对你的新储存库进行相关设置，你可以在这里设置你的GIthub Page特性，包括功能的开启与关闭，是否绑定定制域名(custom domain).
 
-![](http://cdn.yiyouls.com/pagedomain.png)
+
 
 
 
@@ -52,17 +54,17 @@ GitHub Desktop是在macOS和Windows上使用Git和GitHub的好方法。（如果
 
 [下载GitHub桌面](https://desktop.github.com/)
 
-![](http://cdn.yiyouls.com/githubdesk.png)
+
 
 > 第四步，将储存库克隆到本地，用Github桌面客户端打开
 
 客户端完成安装后，返回我们刚建的储存库主页并刷新页面。单击“Set up in Desktop”按钮。当GitHub桌面应用程序打开时，保存项目。这样我们就把该储存库克隆到了本地．
 
-{% hl_text danger %}
+
 
 注意
 
-{% endhl_text %}
+
 
 1. 如果Github桌面客户端未能打开，你可以从电脑应用程序库找到它并启动，用户登录后，你可以看到你名下的所有储存库，找到我们新建的那个，手动克隆它．
 
@@ -74,35 +76,17 @@ GitHub Desktop是在macOS和Windows上使用Git和GitHub的好方法。（如果
 
    
 
-![](http://cdn.yiyouls.com/clone.png)
+
 
 > 第五步，创建索引文件
 
 到这里，你的储存库尚未添加任何文件，你的网站也相应地空空如也．你需要添加索引文件
 
-{% tabbed_codeblock index.html https://pages.github.com %}
 
-​    <!-- tab html -->
-
-​    <!DOCTYPE html>
-    <html>
-    <body>
-    <h1>Hello World</h1>
-    <p>I'm hosted with GitHub Pages.</p>
-    </body>
-    </html>
-
-​    <!-- endtab -->
-
-{% endtabbed_codeblock %}
 
 这样，你就在你的网站上添加了一行"hello world"
 
-{% hl_text danger %}
 
-注意
-
-{% endhl_text %}
 
 如果是使用terminal操作，你需要`cd`进入克隆出的文件，然后向文件夹里添加内容：
 

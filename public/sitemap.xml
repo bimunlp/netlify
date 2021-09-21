@@ -2,26 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bimu.netlify.app/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <loc>https://bimu.netlify.app/categories/blog/</loc>
+    <lastmod>2021-09-20T20:39:46+08:00</lastmod>
+  </url><url>
+    <loc>https://bimu.netlify.app/categories/</loc>
+    <lastmod>2021-09-20T20:39:46+08:00</lastmod>
+  </url><url>
+    <loc>https://bimu.netlify.app/tags/github/</loc>
+    <lastmod>2021-09-20T20:39:46+08:00</lastmod>
+  </url><url>
+    <loc>https://bimu.netlify.app/post/</loc>
+    <lastmod>2021-09-20T20:39:46+08:00</lastmod>
+  </url><url>
+    <loc>https://bimu.netlify.app/tags/</loc>
+    <lastmod>2021-09-20T20:39:46+08:00</lastmod>
+  </url><url>
+    <loc>https://bimu.netlify.app/p/%E5%A6%82%E4%BD%95%E5%9C%A8github%E4%B8%8A%E5%85%8D%E8%B4%B9%E5%BC%80%E9%80%9A%E4%B8%80%E4%B8%AAgithub-page%E4%BD%9C%E4%B8%BA%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5/</loc>
+    <lastmod>2021-09-20T20:39:46+08:00</lastmod>
+  </url><url>
+    <loc>https://bimu.netlify.app/tags/%E5%BB%BA%E7%AB%99/</loc>
+    <lastmod>2021-09-20T20:39:46+08:00</lastmod>
   </url><url>
     <loc>https://bimu.netlify.app/</loc>
+    <lastmod>2021-09-20T20:39:46+08:00</lastmod>
+  </url><url>
+    <loc>https://bimu.netlify.app/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://bimu.netlify.app/page/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://bimu.netlify.app/categories/blog/</loc>
-  </url><url>
-    <loc>https://bimu.netlify.app/categories/</loc>
   </url><url>
     <loc>https://bimu.netlify.app/categories/photo/</loc>
   </url><url>
     <loc>https://bimu.netlify.app/categories/podcast/</loc>
   </url><url>
     <loc>https://bimu.netlify.app/search/</loc>
-  </url><url>
-    <loc>https://bimu.netlify.app/tags/</loc>
   </url><url>
     <loc>https://bimu.netlify.app/categories/video/</loc>
   </url>

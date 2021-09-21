@@ -23,7 +23,7 @@ params:
         - post
     featuredImageField: image
     rssFullContent: true
-    favicon:
+    favicon: img/bimu.icon
 
     footer:
         since: 2021
@@ -136,7 +136,7 @@ params:
             site: HanmengLiu
 
             # Available values: summary, summary_large_image
-            card: summary_large_image
+            card: summary
 
     defaultImage:
         opengraph:

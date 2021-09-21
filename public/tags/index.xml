@@ -1,10 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on bimu.cc</title>
+    <title>Tags on 编程范</title>
     <link>https://bimu.netlify.app/tags/</link>
-    <description>Recent content in Tags on bimu.cc</description>
+    <description>Recent content in Tags on 编程范</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://bimu.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Mon, 20 Sep 2021 20:39:46 +0800</lastBuildDate><atom:link href="https://bimu.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Github</title>
+      <link>https://bimu.netlify.app/tags/github/</link>
+      <pubDate>Mon, 20 Sep 2021 20:39:46 +0800</pubDate>
+      
+      <guid>https://bimu.netlify.app/tags/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>建站</title>
+      <link>https://bimu.netlify.app/tags/%E5%BB%BA%E7%AB%99/</link>
+      <pubDate>Mon, 20 Sep 2021 20:39:46 +0800</pubDate>
+      
+      <guid>https://bimu.netlify.app/tags/%E5%BB%BA%E7%AB%99/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

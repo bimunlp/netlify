@@ -2,7 +2,7 @@ baseurl: https://bimu.netlify.app
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: 编程范
+title: bimu.cc
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -29,7 +29,7 @@ params:
 
     footer:
         since: 2021
-        customText: 豫ICP备20000969号-1
+        customText: into the tech world
 
     dateFormat:
         published: Jan 02, 2006

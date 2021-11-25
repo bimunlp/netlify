@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on 编程范</title>
-    <link>https://bimu.netlify.app/categories/</link>
-    <description>Recent content in Categories on 编程范</description>
+    <title>Categories on bimu.cc</title>
+    <link>https://bimu.cc/categories.html</link>
+    <description>Recent content in Categories on bimu.cc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Sep 2021 20:39:46 +0800</lastBuildDate><atom:link href="https://bimu.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Sep 2021 20:39:46 +0800</lastBuildDate><atom:link href="https://bimu.cc/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Blogs</title>
-      <link>https://bimu.netlify.app/categories/blog/</link>
+      <link>https://bimu.cc/categories/blog.html</link>
       <pubDate>Mon, 20 Sep 2021 20:39:46 +0800</pubDate>
       
-      <guid>https://bimu.netlify.app/categories/blog/</guid>
+      <guid>https://bimu.cc/categories/blog.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Photography</title>
-      <link>https://bimu.netlify.app/categories/photo/</link>
+      <link>https://bimu.cc/categories/photo.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bimu.netlify.app/categories/photo/</guid>
+      <guid>https://bimu.cc/categories/photo.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Podcasts</title>
-      <link>https://bimu.netlify.app/categories/podcast/</link>
+      <link>https://bimu.cc/categories/podcast.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bimu.netlify.app/categories/podcast/</guid>
+      <guid>https://bimu.cc/categories/podcast.html</guid>
       <description></description>
     </item>
     
     <item>
       <title>Videos</title>
-      <link>https://bimu.netlify.app/categories/video/</link>
+      <link>https://bimu.cc/categories/video.html</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bimu.netlify.app/categories/video/</guid>
+      <guid>https://bimu.cc/categories/video.html</guid>
       <description></description>
     </item>
     

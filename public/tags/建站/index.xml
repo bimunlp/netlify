@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>建站 on 编程范</title>
-    <link>https://bimu.netlify.app/tags/%E5%BB%BA%E7%AB%99/</link>
-    <description>Recent content in 建站 on 编程范</description>
+    <title>建站 on bimu.cc</title>
+    <link>https://bimu.cc/tags/%E5%BB%BA%E7%AB%99.html</link>
+    <description>Recent content in 建站 on bimu.cc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 20 Sep 2021 20:39:46 +0800</lastBuildDate><atom:link href="https://bimu.netlify.app/tags/%E5%BB%BA%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 20 Sep 2021 20:39:46 +0800</lastBuildDate><atom:link href="https://bimu.cc/tags/%E5%BB%BA%E7%AB%99/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>如何在Github上免费开通一个Github Page作为个人主页</title>
-      <link>https://bimu.netlify.app/p/%E5%A6%82%E4%BD%95%E5%9C%A8github%E4%B8%8A%E5%85%8D%E8%B4%B9%E5%BC%80%E9%80%9A%E4%B8%80%E4%B8%AAgithub-page%E4%BD%9C%E4%B8%BA%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5/</link>
+      <link>https://bimu.cc/p/%E5%A6%82%E4%BD%95%E5%9C%A8github%E4%B8%8A%E5%85%8D%E8%B4%B9%E5%BC%80%E9%80%9A%E4%B8%80%E4%B8%AAgithub-page%E4%BD%9C%E4%B8%BA%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5.html</link>
       <pubDate>Mon, 20 Sep 2021 20:39:46 +0800</pubDate>
       
-      <guid>https://bimu.netlify.app/p/%E5%A6%82%E4%BD%95%E5%9C%A8github%E4%B8%8A%E5%85%8D%E8%B4%B9%E5%BC%80%E9%80%9A%E4%B8%80%E4%B8%AAgithub-page%E4%BD%9C%E4%B8%BA%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5/</guid>
+      <guid>https://bimu.cc/p/%E5%A6%82%E4%BD%95%E5%9C%A8github%E4%B8%8A%E5%85%8D%E8%B4%B9%E5%BC%80%E9%80%9A%E4%B8%80%E4%B8%AAgithub-page%E4%BD%9C%E4%B8%BA%E4%B8%AA%E4%BA%BA%E4%B8%BB%E9%A1%B5.html</guid>
       <description>为什么要选择在Github上建站，原因很简单，它是免费的．
 只要你按照下面的六步走，就可以轻轻松松发布自己的网站，你不需要有任何关于编程或者网站建设的基础知识．所有的前提只是，你要有一个github账号．
 当你下定决心要建站的时候，你就开始面临一系列的选择．我在上个文章中就已经提到了大家会面临的第一个分叉路口．对于一个想要搭建个人博客系统的新手，我坚定地建议你采用Github托管的方式，原因很简单，它是免费的．
